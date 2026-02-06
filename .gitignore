@@ -3,9 +3,6 @@
 dji_credentials.txt
 .dji_mqtt_credentials.json
 
-# APK files
-*.apk
-
 # Python
 __pycache__/
 *.pyc
