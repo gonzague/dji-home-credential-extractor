@@ -1,0 +1,19 @@
+# Credentials (never commit these)
+.env
+dji_credentials.txt
+.dji_mqtt_credentials.json
+
+# APK files
+*.apk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
